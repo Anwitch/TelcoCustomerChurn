@@ -75,6 +75,6 @@ Berdasarkan temuan, berikut adalah beberapa rekomendasi strategis untuk perusaha
 
 ## Teknologi yang Digunakan
 -   **Bahasa Pemrograman**: Python
--   **Pustaka Data Analysis**: Pandas, NumPy
+-   **Pustaka Data Analysis**: Pandas
 -   **Pustaka Visualisasi**: Matplotlib, Seaborn
 -   **Lingkungan Pengembangan**: Jupyter Notebook
